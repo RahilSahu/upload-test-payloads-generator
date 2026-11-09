@@ -1,4 +1,5 @@
 # File Upload Test Payloads Generator
+![tests](https://github.com/RahilSahu/upload-test-payloads-generator/actions/workflows/tests.yml/badge.svg)
 
 A small, zero-dependency Python tool that generates a folder of benign
 file-upload security test files, plus a `manifest.csv` describing each
